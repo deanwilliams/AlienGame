@@ -1,0 +1,4 @@
+<h1>XNA Alien Game Example Code</h1>
+ 
+<p>Just messing around and learning with XNA.</p>
+ 
