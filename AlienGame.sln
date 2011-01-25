@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlienGame", "AlienGame\AlienGame\AlienGame.csproj", "{10A06B01-B44A-4C3F-988E-0CD15C971811}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "AlienGameContent", "AlienGame\AlienGameContent\AlienGameContent.contentproj", "{A4A32221-E5BD-4533-943A-ABC4CBDEBEBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10A06B01-B44A-4C3F-988E-0CD15C971811}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{10A06B01-B44A-4C3F-988E-0CD15C971811}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{10A06B01-B44A-4C3F-988E-0CD15C971811}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{10A06B01-B44A-4C3F-988E-0CD15C971811}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{10A06B01-B44A-4C3F-988E-0CD15C971811}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{10A06B01-B44A-4C3F-988E-0CD15C971811}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{A4A32221-E5BD-4533-943A-ABC4CBDEBEBB}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{A4A32221-E5BD-4533-943A-ABC4CBDEBEBB}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
